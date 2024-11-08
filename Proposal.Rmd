@@ -9,6 +9,7 @@ output: html_document
 
 - **Chenhui Yan** (CY2772)
 - **Zhaokun Lin** (ZL3544)
+- **Mingyin Wang** (AW3693)
 
 # Motivation
 
@@ -33,3 +34,18 @@ We can merged the income and education dataset to the shooting dataset, analyze 
 ## Interactive page
 
 We'll design a interactive page, so the website user can filter the data in different variables(zipcode, neighborhood, borough, .etc) on the left side of our page, after that, the filtered shooting incident will show on a map in different dots on the right side of our page. The user can click on the different shooting incident dots, a more detailed information about this particular incident will shows in a small window.
+
+# Anticipated data sources
+
+https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8/about_data
+
+https://data.cccnewyork.org/data/table/1370/student-economic-status#1370/1609/127/abbr/u
+
+https://insideairbnb.com/get-the-data/
+
+
+# Timeline 
+
+
+
+
