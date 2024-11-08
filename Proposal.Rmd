@@ -8,8 +8,28 @@ output: html_document
 # Project Members
 
 - **Chenhui Yan** (CY2772)
-- *(Add other team members here)*
+- **Zhaokun Lin** (ZL3544)
 
 # Motivation
 
 Understanding the dynamics of shooting incidents in New York City is crucial for enhancing public safety and fostering resilient communities. By examining demographic patterns in shooting crime data alongside datasets on education levels, household income, and Airbnb listings, our project aims to identify socioeconomic and housing factors that influence gun violence. Analyzing how education disparities, income levels, and the prevalence of short-term rentals correlate with shooting incidents provides valuable insights for policymakers and stakeholders. We hope our findings can assist policymakers and stakeholders in developing targeted solutions to address the root causes of gun violence and enhance the well-being of all New York City residents.
+
+# The intended final products
+
+## Descriptive Statistics
+
+* Total shooting incidents of different boroughs within our interested timeframe.
+* Monthly or yearly shooting incident numbers.
+* Perpetrator’s sex description.
+* Perpetrator’s age distribution.
+* Distribution of the exact time of the shooting incident
+
+Both descriptive statistics above can be visualized, there are lots of other aspects that we can analyze.
+
+## Regression 
+
+We can merged the income and education dataset to the shooting dataset, analyze the relationship between numbers of shooting incidence of a neighborhood and income or education level within the neighborhood. After the regression, we’ll interprete the model and analyze the reason behind the pattern.
+
+## Interactive page
+
+We'll design a interactive page, so the website user can filter the data in different variables(zipcode, neighborhood, borough, .etc) on the left side of our page, after that, the filtered shooting incident will show on a map in different dots on the right side of our page. The user can click on the different shooting incident dots, a more detailed information about this particular incident will shows in a small window.
