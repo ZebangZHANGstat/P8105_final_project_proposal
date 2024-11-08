@@ -55,15 +55,39 @@ on a map in different dots on the right side of our page. The user can
 click on the different shooting incident dots, a more detailed
 information about this particular incident will shows in a small window.
 
-\<\<\<\<\<\<\< HEAD \# Anticipated data sources
+# Anticipated data sources
+
+data of the shooting incident in NYC. List of every shooting incident
+that occurred in NYC going back to 2006 through the end of the previous
+calendar year. Important variables: Exact date of the shooting incident
+,Exact time of the shooting incident, Borough where the shooting
+incident occurred, location of the shooting incident and Perpetrator’s
+age within a category and Victim’s age within a category.
 
 <https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8/about_data>
 
+This dataset includes NYC’s househould income and median income in
+different Boroughs and community districts. It also includes NYC’s
+education data, including graduation rate, dropout rate, attendece and
+etc.
+
 <https://data.cccnewyork.org/data/table/1370/student-economic-status#1370/1609/127/abbr/u>
+
+nyc airbnb dataset, important variables are the price, longitude,
+latitude,
 
 <https://insideairbnb.com/get-the-data/>
 
 # Timeline
+
+done data cleaning by 11/18, including merging datasets, tidy data,
+finding repetative rows and etc.
+
+11/19 - 11/30, we are going to finish the descriptive statistics,
+regression, and webpage. We will also include shiny app on our website.
+
+12/1-12/7, we are going to work on the report and the screencast, be
+ready for the peer assessment.
 
 # The planned analyses / visualizations / coding challenges
 
