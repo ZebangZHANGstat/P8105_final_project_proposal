@@ -1,0 +1,15 @@
+---
+title: "Examining Demographic Patterns in NYC Shooting Data"
+author: "Team Alpha"
+date: "2024-11-07"
+output: html_document
+---
+
+# Project Members
+
+- **Chenhui Yan** (CY2772)
+- *(Add other team members here)*
+
+# Motivation
+
+Understanding the dynamics of shooting incidents in New York City is crucial for enhancing public safety and fostering resilient communities. By examining demographic patterns in shooting crime data alongside datasets on education levels, household income, and Airbnb listings, our project aims to identify socioeconomic and housing factors that influence gun violence. Analyzing how education disparities, income levels, and the prevalence of short-term rentals correlate with shooting incidents provides valuable insights for policymakers and stakeholders. We hope our findings can assist policymakers and stakeholders in developing targeted solutions to address the root causes of gun violence and enhance the well-being of all New York City residents.
