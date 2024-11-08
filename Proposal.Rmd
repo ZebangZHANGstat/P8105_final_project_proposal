@@ -2,18 +2,16 @@
 title: "Examining Demographic Patterns in NYC Shooting Data"
 author: "Team Alpha"
 date: "2024-11-07"
-output: html_document
+output: github_document
 ---
 
 # Project Members
 
 - **Chenhui Yan** (CY2772)
 - **Zhaokun Lin** (ZL3544)
-<<<<<<< HEAD
 - **Mingyin Wang** (AW3693)
-=======
 - **Zebang Zhang** (ZZ3309)
->>>>>>> c72b44f5075f9ffd2dce720ca5ce345f042518df
+
 
 # Motivation
 
@@ -54,7 +52,7 @@ https://insideairbnb.com/get-the-data/
 
 
 
-=======
+
 # The planned analyses / visualizations / coding challenges
 
 The first challenge we may encounter is in data preprocessing. For example, in the shooting dataset, there are several columns with much missing and invalid data. There are also some columns not useful for the later analysis. Moreover, we have to adjust the formatting of the time and place variable of the shooting. After the careful cleaning of every datasets can we merge them into the final dataset that we use for analysis. 
