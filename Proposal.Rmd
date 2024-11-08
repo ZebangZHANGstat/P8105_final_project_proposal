@@ -9,6 +9,7 @@ output: html_document
 
 - **Chenhui Yan** (CY2772)
 - **Zhaokun Lin** (ZL3544)
+- **Zebang Zhang** (ZZ3309)
 
 # Motivation
 
@@ -28,8 +29,16 @@ Both descriptive statistics above can be visualized, there are lots of other asp
 
 ## Regression 
 
-We can merged the income and education dataset to the shooting dataset, analyze the relationship between numbers of shooting incidence of a neighborhood and income or education level within the neighborhood. After the regression, we’ll interprete the model and analyze the reason behind the pattern.
+We can merged the income and education dataset to the shooting dataset, analyze the relationship between numbers of shooting incidence of a neighborhood and income or education level within the neighborhood. After the regression, we’ll interpret the model and analyze the reason behind the pattern.
 
 ## Interactive page
 
 We'll design a interactive page, so the website user can filter the data in different variables(zipcode, neighborhood, borough, .etc) on the left side of our page, after that, the filtered shooting incident will show on a map in different dots on the right side of our page. The user can click on the different shooting incident dots, a more detailed information about this particular incident will shows in a small window.
+
+# The planned analyses / visualizations / coding challenges
+
+The first challenge we may encounter is in data preprocessing. For example, in the shooting dataset, there are several columns with much missing and invalid data. There are also some columns not useful for the later analysis. Moreover, we have to adjust the formatting of the time and place variable of the shooting. After the careful cleaning of every datasets can we merge them into the final dataset that we use for analysis. 
+
+The second challenge lies in the coding part for making the interactive page. We need to put every dot, which represent a shooting, on a actual and detailed map, and reach the effect that when the website user click on a specific dot, other relevant information will show up automaticly. What's more, we may need to reasonably divide regions based on their economic and educational conditions and display them in different colors on the map. The codes may not be simple. 
+
+The third challenge may occur in visualization part. To make a plot that can show the data patterns clearly, we need to adjust the subtle composition elements of each plot. For example, the size of the dots on the map, the colors used to fill graphics and the numerical intervals of the coordinate axis.
